@@ -1,0 +1,45 @@
+.nav-bar{
+    width: 100vw;
+    background-color: blue;
+    height: 75px;
+    display: flex;
+}
+.nav-logo img{
+    width: 130px;
+    height: 75px;
+    background-size: cover;
+}
+input{
+height: 30px;
+width: 500px;   
+border-radius: 25px;
+margin-top: 20px;
+margin-left: 20px;
+text-align: center;
+}
+.home p{
+color: white;
+font-size: 20px;
+margin-top: 25px;
+margin-left: 20px;
+}
+.about p{
+    color: white;
+    font-size: 20px;
+    margin-top: 25px;
+    margin-left: 20px;
+    }
+    .sign-in p{
+        color: white;
+        font-size: 20px;
+        margin-top: 25px;
+        margin-left: 550px;
+        
+    }
+    .help p{
+        color: white;
+        font-size: 20px;
+        margin-top: 25px;
+        margin-left: 20px;
+        
+    }
